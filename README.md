@@ -2,6 +2,7 @@
 Introducing Fileh0st: Your Secure and Efficient File Hosting Solution
 
 Anonymous File Hosting: Upload and share files anonymously, ensuring privacy and security for all users.
+<br>
 No Signup Required: Streamlined access without cumbersome registration processes.
 Zero User Tracking: We prioritize your privacy with a strict no-tracking policy.
 Comprehensive VirusTotal Check: Each upload undergoes a thorough VirusTotal scan to ensure safety.
