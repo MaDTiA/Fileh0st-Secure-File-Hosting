@@ -27,5 +27,4 @@ Hotlink Protection: Prevents unauthorized hotlinking of files.<br>
 Comprehensive Support: Ensures download statistics remain accurate even when files are removed.<br>
 
 # https://h0st.madtia.cc<br>
-<br>
 10/07/2024 Released major version on main domain, mirrors will come soon.
