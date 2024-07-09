@@ -2,7 +2,6 @@
 
 Fileh0st is a robust, secure, and efficient file hosting solution designed to provide anonymous file sharing with a streamlined user experience.<br>
 This project ensures user privacy, easy file management, and powerful administrative controls.<br>
-Features<br>
 User-Centric Features<br>
 Anonymous File Hosting: Upload and share files anonymously, safeguarding user privacy.<br>
 No Signup Required: Hassle-free access without the need for registration.<br>
