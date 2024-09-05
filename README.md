@@ -111,5 +111,5 @@ Fileh0st is lightweight, with a zipped file size of just 50KB, and offers plenty
 ---
 
 # https://h0st.madtia.cc<br>
-10/07/2024 Released major version on main domain, mirrors will come soon.
+10/07/2024 Released major version on main domain, mirrors will come soon.<br>
 05/09/2024 fixed minor issues, improved uploads handling, added autoprune system based on downloads amount and inactivity days. Added cdn support too.
