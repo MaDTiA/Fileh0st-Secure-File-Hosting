@@ -110,13 +110,13 @@ Empower your file hosting service with the comprehensive features of our Admin C
 Fileh0st is lightweight, with a zipped file size of just 50KB, and offers plenty of space for ads and popups. Experience secure, efficient, and user-friendly file hosting with Fileh0st today!
 ---
 
-<a href="https://ibb.co/w6QXr23"><img src="https://i.ibb.co/QmHRjxz/fileh0st-acp.png" alt="fileh0st-acp" border="0"></a>
-<a href="https://ibb.co/JRMNNw1"><img src="https://i.ibb.co/HDk00fS/fileh0st-faq.png" alt="fileh0st-faq" border="0"></a>
-<a href="https://ibb.co/7Gd2Yp3"><img src="https://i.ibb.co/nDNzg1X/fileh0st-features.png" alt="fileh0st-features" border="0"></a>
-<a href="https://ibb.co/wS1MY1M"><img src="https://i.ibb.co/D9n5Ln5/fileh0st-homepage.png" alt="fileh0st-homepage" border="0"></a>
-<a href="https://ibb.co/hKN0Ygm"><img src="https://i.ibb.co/NLqRTFy/fileh0st-indexed-files.png" alt="fileh0st-indexed-files" border="0"></a>
-<a href="https://ibb.co/mJDbwhv"><img src="https://i.ibb.co/5TMGysY/fileh0st-upload.png" alt="fileh0st-upload" border="0"></a>
-<a href="https://ibb.co/4MMjqVp"><img src="https://i.ibb.co/bLLr0KX/fileh0st-upload-list.png" alt="fileh0st-upload-list" border="0"></a>
+<a href="https://postimg.cc/WFWkzj9d" target="_blank"><img src="https://i.postimg.cc/WFWkzj9d/fileh0st-acp.png" alt="fileh0st-acp"/></a><br/><br/>
+<a href="https://postimg.cc/kDHSdJ6Z" target="_blank"><img src="https://i.postimg.cc/kDHSdJ6Z/fileh0st-faq.png" alt="fileh0st-faq"/></a><br/><br/>
+<a href="https://postimg.cc/SjR952sC" target="_blank"><img src="https://i.postimg.cc/SjR952sC/fileh0st-features.png" alt="fileh0st-features"/></a><br/><br/>
+<a href="https://postimg.cc/y3DSS55v" target="_blank"><img src="https://i.postimg.cc/y3DSS55v/fileh0st-homepage.png" alt="fileh0st-homepage"/></a><br/><br/>
+<a href="https://postimg.cc/dLTysbG0" target="_blank"><img src="https://i.postimg.cc/dLTysbG0/fileh0st-indexed-files.png" alt="fileh0st-indexed-files"/></a><br/><br/>
+<a href="https://postimg.cc/RW5nNgTL" target="_blank"><img src="https://i.postimg.cc/RW5nNgTL/fileh0st-upload.png" alt="fileh0st-upload"/></a><br/><br/>
+<a href="https://postimg.cc/NK62TRJq" target="_blank"><img src="https://i.postimg.cc/NK62TRJq/fileh0st-upload-list.png" alt="fileh0st-upload-list"/></a><br/><br/>
 
 # Main Domain https://h0st.madtia.cc<br>
 10/07/2024 Released major version on main domain, mirrors will come soon.<br>
