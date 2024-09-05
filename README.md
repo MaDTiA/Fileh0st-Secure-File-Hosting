@@ -111,7 +111,7 @@ Fileh0st is lightweight, with a zipped file size of just 50KB, and offers plenty
 ---
 
 <a href="https://postimg.cc/WFWkzj9d" target="_blank"><img src="https://i.postimg.cc/fyZjHRmf/fileh0st-acp.png" alt="fileh0st-acp"/></a> <a href="https://postimg.cc/kDHSdJ6Z" target="_blank"><img src="https://i.postimg.cc/xTf3Mq00/fileh0st-faq.png" alt="fileh0st-faq"/></a> <a href="https://postimg.cc/SjR952sC" target="_blank"><img src="https://i.postimg.cc/y6XTD0CQ/fileh0st-features.png" alt="fileh0st-features"/></a> <a href="https://postimg.cc/y3DSS55v" target="_blank"><img src="https://i.postimg.cc/yxPh2CT4/fileh0st-homepage.png" alt="fileh0st-homepage"/></a><br/><br/>
-<a href="https://postimg.cc/dLTysbG0" target="_blank"><img src="https://i.postimg.cc/Wb56nj30/fileh0st-indexed-files.png" alt="fileh0st-indexed-files"/></a> <a href="https://postimg.cc/RW5nNgTL" target="_blank"><img src="https://i.postimg.cc/4xnv2M7q/fileh0st-upload.png" alt="fileh0st-upload"/></a> <a href="https://postimg.cc/NK62TRJq" target="_blank"><img src="https://i.postimg.cc/P5cWg41x/fileh0st-upload-list.png" alt="fileh0st-upload-list"/></a> 
+<a href="https://postimg.cc/dLTysbG0" target="_blank"><img src="https://i.postimg.cc/Wb56nj30/fileh0st-indexed-files.png" alt="fileh0st-indexed-files"/></a> <a href="https://postimg.cc/RW5nNgTL" target="_blank"><img src="https://i.postimg.cc/4xnv2M7q/fileh0st-upload.png" alt="fileh0st-upload"/></a>
 
 # Main Domain https://h0st.madtia.cc<br>
 10/07/2024 Released major version on main domain, mirrors will come soon.<br>
